@@ -31,6 +31,7 @@ A simple and user friendly Hospital Management System created using JSF 2.0 duri
 * [JSF-2](https://en.wikipedia.org/wiki/JavaServer_Faces)
 * [Primefaces](https://www.primefaces.org/)
 * [Omnifaces](showcase.omnifaces.org/)
+* [Bootstrap 3](https://getbootstrap.com)
 
 ## What's Next
 * Work Under Progress (Some modules are being worked upon)
