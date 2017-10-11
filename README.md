@@ -4,8 +4,9 @@ A simple and user friendly Hospital Management System created using JSF 2.0 duri
 ## Roles:
 * Patient
 * Doctor
-* Admin
-* API
+* Master Admin
+## Other functionality
+* API support
 
 ## Prerequisites
 ```
