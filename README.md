@@ -10,13 +10,22 @@ A simple and user friendly Hospital Management System created using JSF 2.0 duri
 ## Prerequisites
 ```
 1) Java EE IDE.
-2) Apache Tomcat Server
+2) Apache Tomcat Server v 8.0
     - Goto Apache/conf/context.xml
     - Edit it
     - Uncomment <Manager pathname="" /> tag in the XML to disable session persistence across Tomcat restarts
 3) MySql Database
     - Import the MySql dump provided.
 ```
+
+## Hardware Requirements
+```
+1) Processor              -                    Intel i3 or higher
+2) RAM                    -                    4GB
+3) Hard Disk                -                  40GB
+4) Network                  -                  100m bit wired network
+```
+
 ## Installing
 
 * Integrate the MySql Database by changing the database password.
