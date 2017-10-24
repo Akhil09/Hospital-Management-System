@@ -5,7 +5,7 @@ A simple and user friendly Hospital Management System created using JSF 2.0 duri
 * Patient
 * Doctor
 * Admin
-* API
+* API (accesed through UID)
 
 ## Prerequisites
 ```
@@ -38,3 +38,7 @@ A simple and user friendly Hospital Management System created using JSF 2.0 duri
 
 ## Any Issues?
 Found any Bug? Please feel free to report it. :)
+Pratinav
+Amandeep
+Vaibhav
+
